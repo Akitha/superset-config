@@ -1,6 +1,6 @@
 {
   "name": "how-to-publish-to-npm-akitha",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "sample npm package",
   "main": "index.js",
   "scripts": {
