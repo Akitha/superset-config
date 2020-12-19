@@ -1,6 +1,6 @@
 {
-  "name": "how-to-publish-to-npm-akitha",
-  "version": "1.0.3",
+  "name": "new-pack-hello",
+  "version": "1.0.0",
   "description": "sample npm package",
   "main": "index.js",
   "repository": {
@@ -8,7 +8,7 @@
     "url": "git+https://github.com/Akitha/plugin-chart-hello-world.git"
   },
   "dependencies": {
-    "plugin-chart-hello-world":"0.0.0"
+    "@superset-ui/plugin-chart-hello-world": "https://github.com/Akitha/plugin-chart-hello-world.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\""
