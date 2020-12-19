@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/Akitha/plugin-chart-hello-world.git"
   },
-  "dependencies": {
+  "devDependencies": {
     "superset-ui/plugin-chart-hello-world": "git+https://github.com/Akitha/plugin-chart-hello-world.git"
   },
   "scripts": {
