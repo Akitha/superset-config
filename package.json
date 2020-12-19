@@ -8,7 +8,7 @@
     "url": "git+https://github.com/Akitha/plugin-chart-hello-world.git"
   },
   "dependencies": {
-    "@superset-ui/plugin-chart-hello-world": "git+https://github.com/Akitha/plugin-chart-hello-world.git"
+    "superset-ui/plugin-chart-hello-world": "git+https://github.com/Akitha/plugin-chart-hello-world.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\""
